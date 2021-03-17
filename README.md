@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naimishbhagat
-- 👀 I’m interested in web and software developer
+- 👀 I’m interested in web and software developement 
 - 🌱 I’m currently learning React, Redux, Typescript and NodeJS
 - 💞️ I’m looking to collaborate on different projects and open source projects 
 - 📫 How to reach me : naimish_bhagat@yahoo.com
